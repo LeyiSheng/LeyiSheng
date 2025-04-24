@@ -5,7 +5,7 @@
 
 ![Static Badge](https://img.shields.io/badge/a_noob-in_ML-blue?labelColor=red)
 
-- 🌱 I’m currently learning **machine learning, computer vision, mutli-modality**
+- 🌱 I’m currently learning **machine learning, computer vision, multi-modality**
 
 - 📫 How to reach me **lsheng847@connect.hkust-gz.edu.cn**
 
