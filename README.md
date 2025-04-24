@@ -1,7 +1,7 @@
 <p align="center">
   <img width="140" src="https://github.com/LeyiSheng/LeyiSheng/blob/main/%E5%9D%A4%E5%9D%A4.avif">
+  <h1 align="center"> Leyi Sheng</h1>
 </p>
-<h1 align="center"> Leyi Sheng</h1>
 - 🌱 I’m currently learning **machine learning, computer vision, mutli-modality**
 
 - 📫 How to reach me **lsheng847@connect.hkust-gz.edu.cn**
