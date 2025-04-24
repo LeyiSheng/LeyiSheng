@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm leyi sheng</h1>
+<p align="center">
+  <img width="140" src="">
+</p>
+<h1 align="center"> Leyi Sheng</h1>
 - 🌱 I’m currently learning **machine learning, computer vision, mutli-modality**
 
 - 📫 How to reach me **lsheng847@connect.hkust-gz.edu.cn**
