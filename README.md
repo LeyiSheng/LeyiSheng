@@ -1,10 +1,9 @@
 <p align="center">
   <img width="140" src="https://github.com/LeyiSheng/LeyiSheng/blob/main/%E5%9D%A4%E5%9D%A4.avif">
   <h1 align="center"> Leyi Sheng</h1>
-  <img src=
 </p>
 
-![Static Badge](https://img.shields.io/badge/a_noob-in_ML-blue?labelColor=red)
+<p align="center">![Static Badge](https://img.shields.io/badge/a_noob-in_ML-blue?labelColor=red)</p>
 
 - 🌱 I’m currently learning **machine learning, computer vision, mutli-modality**
 
