@@ -3,7 +3,7 @@
   <h1 align="center"> Leyi Sheng</h1>
 </p>
 
-<p align="center">![Static Badge](https://img.shields.io/badge/a_noob-in_ML-blue?labelColor=red)</p>
+![Static Badge](https://img.shields.io/badge/a_noob-in_ML-blue?labelColor=red)
 
 - 🌱 I’m currently learning **machine learning, computer vision, mutli-modality**
 
